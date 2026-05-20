@@ -1,0 +1,29 @@
+.rtl .primary_header_2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.oh-my-blog-post-cats a {
+    right: 15px;
+    left: auto;
+}
+
+.oh-my-blog-post-content {
+    left: auto;
+    right: 0;
+}
+
+.oh-my-blog-post-list .meta2 ul{
+    padding-right: 0;
+}
+
+.oh-my-blog-post-list li {
+    padding-right: 0px;
+    padding-left: 10px;
+}
+
+@media only screen and (min-width: 1025px){
+    .rtl .primary_header_center .bizberg_header_wrapper{
+        justify-content: center;
+    }
+}
