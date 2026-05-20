@@ -10,7 +10,7 @@
 .envirabox-close,
 #envirabox-left #envirabox-left-ico,
 #envirabox-right #envirabox-right-ico {
-	background-image: url("/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite.png");
+	background-image: url('/johnmoates-memorial/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite.png');
 }
 
 #envirabox-loading {
@@ -29,7 +29,7 @@
 #envirabox-loading div {
 	width: 44px;
 	height: 44px;
-	background: url("/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_loading.gif") center center no-repeat;
+	background: url('/johnmoates-memorial/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_loading.gif') center center no-repeat;
 }
 
 #envirabox-overlay {
@@ -39,7 +39,7 @@
 	width: 100%;
 	z-index: 988010;
 	display: none;
-	background: url("/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_overlay.png");
+	background: url('/johnmoates-memorial/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_overlay.png');
 	background-color: rgba(0, 0, 0, 0.9); /* !important; */
 }
 
@@ -107,7 +107,7 @@
 	z-index: 988040;
 	cursor: pointer;
 	display: none;
-	background-image: url("/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite.png");
+	background-image: url('/johnmoates-memorial/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite.png');
 }
 
 #envirabox-error {
@@ -143,7 +143,7 @@
 	width: 35%;
 	cursor: pointer;
 	outline: none;
-	background: transparent url("/wp-content/plugins/envira-gallery-lite/assets/css/images/blank.gif");
+	background: transparent url('/johnmoates-memorial/wp-content/plugins/envira-gallery-lite/assets/css/images/blank.gif');
 	z-index: 988040;
 	display: none;
 }
@@ -327,12 +327,12 @@ body.envira-touch #envirabox-right {
 	#envirabox-left #envirabox-left-ico,
 	#envirabox-right #envirabox-right-ico,
 	#envirabox-close {
-		background-image: url("/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite@2x.png");
+		background-image: url('/johnmoates-memorial/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite@2x.png');
 		background-size: 44px 152px;
 	}
 
 	#envirabox-loading div {
-		background-image: url("/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_loading@2x.gif");
+		background-image: url('/johnmoates-memorial/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_loading@2x.gif');
 		background-size: 24px 24px;
 	}
 }

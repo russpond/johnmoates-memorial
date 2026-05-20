@@ -37,7 +37,7 @@
 	margin: 0;
 }
 .choices[data-type*="select-one"] .choices__button {
-	background-image: url("/wp-content/plugins/envira-gallery-lite/assets/css/images/icons/cross-inverse.svg");
+	background-image: url('/johnmoates-memorial/wp-content/plugins/envira-gallery-lite/assets/css/images/icons/cross-inverse.svg');
 	padding: 0;
 	background-size: 8px;
 	height: 100%;
@@ -101,7 +101,7 @@
 	margin-left: 8px;
 	padding-left: 16px;
 	border-left: 1px solid #008fa1;
-	background-image: url("/wp-content/plugins/envira-gallery-lite/assets/css/images/icons/cross.svg");
+	background-image: url('/johnmoates-memorial/wp-content/plugins/envira-gallery-lite/assets/css/images/icons/cross.svg');
 	background-size: 8px;
 	width: 8px;
 	line-height: 1;

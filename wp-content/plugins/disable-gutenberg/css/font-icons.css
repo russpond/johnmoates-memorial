@@ -1,12 +1,12 @@
 /* Font Awesome 4.7 @ https://fontawesome.io/cheatsheet/ */
 @font-face {
 	font-family: 'FontAwesome';
-	src: url('/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.eot?v=4.7.0');
-	src: url('/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.eot#iefix&v=4.7.0') format('embedded-opentype'), 
-		 url('/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), 
-		 url('/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.woff?v=4.7.0') format('woff'), 
-		 url('/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), 
-		 url('/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+	src: url('/johnmoates-memorial/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.eot?v=4.7.0');
+	src: url('/johnmoates-memorial/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.eot#iefix&v=4.7.0') format('embedded-opentype'), 
+		 url('/johnmoates-memorial/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), 
+		 url('/johnmoates-memorial/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.woff?v=4.7.0') format('woff'), 
+		 url('/johnmoates-memorial/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), 
+		 url('/johnmoates-memorial/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
